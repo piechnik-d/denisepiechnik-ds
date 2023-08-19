@@ -1,0 +1,30 @@
+---
+title: "Denise Piechnik"
+image: "IMG_4963.jpg"
+links:
+  - label: Resume
+    url: "https://linkedin.com/ target ='_blank'"
+  - label: Blog
+    url: "https://medium.com/ target = '_blank'"
+
+output:
+  postcards::solana
+site: distill::distill_website
+---
+ 
+## Bio
+
+forthcomoing.....
+
+## Education
+
+**PhD Ecology** |University of California, Davis
+
+Sept 7, 2007. | 
+
+
+## Experience
+
+**University of Pittsburgh at Bradford** | Assoc. Professor of Biology | August 2013 - Present
+
+

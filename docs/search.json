@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-08-17T13:23:20-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Denise Piechnik",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          denisepiechnik-ds\r\n          \r\n          \r\n          Home\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          Denise Piechnik\r\n          \r\n            \r\n                \r\n                  \r\n                    Resume\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Blog\r\n                  \r\n                \r\n              \r\n                          \r\n        \r\n\r\n        \r\n          \r\n      \r\n      \r\n        \r\n          \r\n          Bio\r\n          forthcomoing…..\r\n          \r\n          \r\n          Education\r\n          PhD Ecology |University of California,\r\n          Davis\r\n          Sept 7, 2007. |\r\n          \r\n          \r\n          Experience\r\n          University of Pittsburgh at Bradford |\r\n          Assoc. Professor of Biology | August 2013 - Present\r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Denise Piechnik\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      Resume\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Blog\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              Bio\r\n              forthcomoing…..\r\n              \r\n              \r\n              Education\r\n              PhD Ecology |University of California,\r\n              Davis\r\n              Sept 7, 2007. |\r\n              \r\n              \r\n              Experience\r\n              University of Pittsburgh at Bradford |\r\n              Assoc. Professor of Biology | August 2013 - Present\r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2023-08-17T13:23:24-04:00"
+    }
+  ],
+  "collections": []
+}

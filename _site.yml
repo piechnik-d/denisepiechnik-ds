@@ -1,0 +1,12 @@
+name: "."
+title: "denisepiechnik-ds"
+description: |
+  denisepiechnik-ds
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
