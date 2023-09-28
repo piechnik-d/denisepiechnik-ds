@@ -14,7 +14,7 @@ site: distill::distill_website
  
 ## Bio
 
-forthcomoing.....
+forthcomming.....
 
 ## Education
 
